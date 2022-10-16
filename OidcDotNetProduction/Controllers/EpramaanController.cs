@@ -22,7 +22,7 @@ namespace OIDC_DOT_NET_INTEGRATION_PRODUCTION.Controllers
         public static readonly string client_id = "100001050";
         public static readonly string aeskey = "cb3a59f6-0617-4898-b859-8bb02fee91b3";
         public static readonly string redirect_uri = "http://localhost:44355/Epramaan/ProcessAuthCodeAndGetToken";
-        public static readonly string Certificate = "D:/CDAC_MUMBAI_code/ePramaanIntegration_DotNet/OidcDotNetProduction/epramaanprod2016.cer";
+        public static readonly string Certificate = "D:/CDAC_MUMBAI_code/ePramaanIntegration_DotNet/OidcDotNetProductionEPramaan/OidcDotNetProduction/epramaanprod2016.cer";
 
         public static string codeVerifier;
         public static string stateID;
